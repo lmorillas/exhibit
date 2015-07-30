@@ -4,6 +4,7 @@ div.exhibit-legendWidget {
     line-height:    2em;
 }
 div.exhibit-legendWidget-entry {
+    white-space:    "nowrap";
 }
 span.exhibit-legendWidget-entry-title {
     font-weight: bold;
